@@ -1,6 +1,3 @@
-Here is the `README.md` file for the **Rent-A-Vehicle** project, describing the controller, its endpoints, and how to use them via cURL commands.
-
----
 
 # Rent-A-Vehicle API
 
